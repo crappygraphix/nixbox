@@ -15,11 +15,11 @@
       "ssh_port": 22,
       "ssh_username": "root",
       "type": "virtualbox-iso",
-      "iso_url": "https://releases.nixos.org/nixos/19.03/nixos-19.03.172138.5c52b25283a/nixos-minimal-19.03.172138.5c52b25283a-i686-linux.iso",
-      "iso_checksum": "313cad80e80a725add6af3b90744df7c88833a6d62b68bfe4b177964d0a81b5c",
+      "iso_url": "https://releases.nixos.org/nixos/19.03/nixos-19.03.172883.1601f559e89/nixos-minimal-19.03.172883.1601f559e89-i686-linux.iso",
+      "iso_checksum": "7a893bcdfbfdbac9defa42552499bf0e159439dcd7db309e997d86ca1737881d",
       "guest_additions_mode": "disable",
       "guest_os_type": "Linux",
-      "disk_size": 52000,
+      "disk_size": 152000,
       "vboxmanage": [
         [
           "modifyvm",
@@ -44,8 +44,8 @@
       "ssh_port": 22,
       "ssh_username": "root",
       "type": "qemu",
-      "iso_url": "https://releases.nixos.org/nixos/19.03/nixos-19.03.172138.5c52b25283a/nixos-minimal-19.03.172138.5c52b25283a-i686-linux.iso",
-      "iso_checksum": "313cad80e80a725add6af3b90744df7c88833a6d62b68bfe4b177964d0a81b5c",
+      "iso_url": "https://releases.nixos.org/nixos/19.03/nixos-19.03.172883.1601f559e89/nixos-minimal-19.03.172883.1601f559e89-i686-linux.iso",
+      "iso_checksum": "7a893bcdfbfdbac9defa42552499bf0e159439dcd7db309e997d86ca1737881d",
       "disk_interface": "virtio-scsi",
       "qemuargs": [
         [
@@ -69,10 +69,10 @@
       "ssh_port": 22,
       "ssh_username": "root",
       "type": "vmware-iso",
-      "iso_url": "https://releases.nixos.org/nixos/19.03/nixos-19.03.172138.5c52b25283a/nixos-minimal-19.03.172138.5c52b25283a-i686-linux.iso",
-      "iso_checksum": "313cad80e80a725add6af3b90744df7c88833a6d62b68bfe4b177964d0a81b5c",
+      "iso_url": "https://releases.nixos.org/nixos/19.03/nixos-19.03.172883.1601f559e89/nixos-minimal-19.03.172883.1601f559e89-i686-linux.iso",
+      "iso_checksum": "7a893bcdfbfdbac9defa42552499bf0e159439dcd7db309e997d86ca1737881d",
       "memory": 1024,
-      "disk_size": 62000,
+      "disk_size": 162000,
       "guest_os_type": "Linux"
     }
   ],
